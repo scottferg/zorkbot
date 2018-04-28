@@ -29,8 +29,8 @@ const (
     story = "./zork1.z5"
     path = "./state.save"
 
-    testChannelId = ""
-    prodChannelId = ""
+    testChannelId = "439428368291725314"
+    prodChannelId = "439455195894906891"
 )
 
 func init() {
